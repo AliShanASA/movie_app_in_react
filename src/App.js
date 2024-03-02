@@ -37,10 +37,6 @@ const App = () => {
         />
       </div>
 
-      <div className="app">
-        <h1>Movies 1</h1>
-      </div>
-
       {movies.length > 0 ? (
         <div className="container">
           {movies.map((movie) => (
