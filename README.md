@@ -8,7 +8,4 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
+https://github.com/AliShanASA/movie_app_in_react/assets/142229789/4080a4c0-de81-4463-8bff-a5126d239d1f
